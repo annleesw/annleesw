@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dart & Flutter on Udemy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/annleeshyannwai/
+LinkedIn: https://www.linkedin.com/in/annleeshyannwai/ |
 Email: annleeshyann@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
